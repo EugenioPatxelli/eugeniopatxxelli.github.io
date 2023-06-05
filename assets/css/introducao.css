@@ -50,3 +50,9 @@
     left: 0px;
   }
 }
+@media (max-width: 550px) {
+  
+  .introducao img {
+    display: none;
+  }
+}
